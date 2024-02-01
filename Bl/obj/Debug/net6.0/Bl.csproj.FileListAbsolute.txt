@@ -1,0 +1,15 @@
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\bin\Debug\net6.0\Bl.deps.json
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\bin\Debug\net6.0\Bl.dll
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\bin\Debug\net6.0\Bl.pdb
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\bin\Debug\net6.0\DAL.dll
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\bin\Debug\net6.0\DAL.pdb
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\obj\Debug\net6.0\Bl.csproj.AssemblyReference.cache
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\obj\Debug\net6.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\obj\Debug\net6.0\Bl.AssemblyInfoInputs.cache
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\obj\Debug\net6.0\Bl.AssemblyInfo.cs
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\obj\Debug\net6.0\Bl.csproj.CoreCompileInputs.cache
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\obj\Debug\net6.0\Bl.csproj.CopyComplete
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\obj\Debug\net6.0\Bl.dll
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\obj\Debug\net6.0\refint\Bl.dll
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\obj\Debug\net6.0\Bl.pdb
+E:\intensive code camp (.Net)\Adv C#\XOGame\Bl\obj\Debug\net6.0\ref\Bl.dll
